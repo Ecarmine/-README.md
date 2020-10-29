@@ -1,0 +1,5 @@
+Al clonar el repositorio y abrir la carpeta se encontraran con un archivo HTML, el cual lo ejecutaran en el navegador
+al estar ya en el programa a la hora de valorar el comic le darán doble click al numero de estrellas que desee, el paso final es darle enviar y ya.
+la valoración del comic solo se puede hacer una vez ,  para volver a valorar el comic se necesita recargar el navegador.
+
+Gracias!
